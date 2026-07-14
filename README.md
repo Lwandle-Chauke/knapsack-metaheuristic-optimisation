@@ -9,7 +9,7 @@
 ![Optimization](https://img.shields.io/badge/Optimization-43A047?style=for-the-badge)
 ![Genetic Algorithm](https://img.shields.io/badge/Genetic%20Algorithm-6A1B9A?style=for-the-badge)
 
-**Author:** **Lwandle Chauke, Omphemetse Mokoena and Boipelo Twala**
+**Authors:** **Lwandle Chauke and Team**
 
 </div>
 
