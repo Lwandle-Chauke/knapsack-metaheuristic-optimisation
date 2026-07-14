@@ -6,7 +6,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-43A047?style=for-the-badge)
+![Optimisation](https://img.shields.io/badge/Optimisation-43A047?style=for-the-badge)
 ![Genetic Algorithm](https://img.shields.io/badge/Genetic%20Algorithm-6A1B9A?style=for-the-badge)
 
 **Authors:** **Lwandle Chauke and Team**
